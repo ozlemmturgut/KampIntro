@@ -29,7 +29,7 @@ namespace MyDictionary
 
             keys[keys.Length - 1] = key;
             values[values.Length - 1] = value;
-
+            Console.WriteLine("Eklendi");
         }
 
     }
