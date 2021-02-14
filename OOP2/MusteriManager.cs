@@ -7,6 +7,7 @@ namespace OOP2
     //İş sınıfları --> Business classes
     class MusteriManager
     {
+
         public void Ekle(Musteri musteri)
         {
             //if (musteri.)
